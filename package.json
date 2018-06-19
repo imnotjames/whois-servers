@@ -1,0 +1,23 @@
+{
+  "name": "whois-servers",
+  "version": "1.0.0",
+  "description": "List of Whois Servers to lookup domains against",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "main": "servers.json",
+  "module": "servers.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imnotjames/whois-servers.git"
+  },
+  "keywords": [
+    "whois"
+  ],
+  "author": "James Ward <james@notjam.es>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imnotjames/whois-servers/issues"
+  },
+  "homepage": "https://github.com/imnotjames/whois-servers#readme"
+}
