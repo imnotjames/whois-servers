@@ -13,12 +13,3 @@ jobs:
         on:
           tags: true
           repo: imnotjames/whois-servers
-    - stage: deploy
-      deploy:
-        provider: npm
-        email: james@notjam.es
-        api_key: $NPM_TOKEN
-        tag: next
-        on:
-          branch: master
-          repo: imnotjames/whois-servers
