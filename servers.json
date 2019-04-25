@@ -18,7 +18,6 @@
     "accountant": "whois.nic.accountant",
     "accountants": "whois.nic.accountants",
     "aco": "whois.afilias-srs.net",
-    "active": "whois.nic.active",
     "actor": "whois.nic.actor",
     "adac": "whois.nic.adac",
     "ads": "whois.nic.google",
@@ -1501,7 +1500,6 @@
     "zara": "whois.afilias-srs.net",
     "zero": "whois.nic.zero",
     "zip": "whois.nic.google",
-    "zippo": "whois.nic.zippo",
     "zm": "whois.nic.zm",
     "zone": "whois.nic.zone",
     "zuerich": "whois.nic.zuerich"
