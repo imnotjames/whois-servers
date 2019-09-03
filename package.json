@@ -1,6 +1,6 @@
 {
   "name": "whois-servers",
-  "version": "1.0.61",
+  "version": "1.0.62",
   "description": "List of Whois Servers to lookup domains against",
   "scripts": {
     "test": "exit 0"
